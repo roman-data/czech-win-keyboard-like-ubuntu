@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Replikace českého rozložení klávesnice z Ubuntu pro Windows. Ideální pro uživatele přecházející z Linuxu. Anglická klávesnice přístupná pod pravou klávesou ALT. Česká klávesnice zůstává nezměněná.
+Repozitář obsahuje klávesnicový layout přizpůsobený pro Windows, který kopíruje rozložení z české Ubuntu klávesnice. Ideální pro uživatele přecházející z Linuxu. Anglická klávesnice přístupná pod pravou klávesou ALT. Česká klávesnice zůstává nezměněná.
 
 ## 📸 Ukázky
 
